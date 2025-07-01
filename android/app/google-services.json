@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640628382681",
+    "project_id": "foodifly-a8c06",
+    "storage_bucket": "foodifly-a8c06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640628382681:android:2193f51c2801d7db1297c8",
+        "android_client_info": {
+          "package_name": "com.example.page_authentification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMakx63djIwHV0WiQk8mcYFdUkDLrJsfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
